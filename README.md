@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raman Gandewar</h1>
-<h3 align="center">Second-Year ENTC Student | Software-Focused Developer with a Taste for Hardware</h3>
+<h3 align="center">Third-Year ENTC Student | Software-Focused Developer with a Taste for Hardware</h3>
 
 ---
 
